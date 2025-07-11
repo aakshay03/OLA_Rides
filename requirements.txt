@@ -1,1 +1,6 @@
-
+streamlit
+pandas
+sqlalchemy
+mysql-connector-python
+plotly
+plotly-express
